@@ -1,0 +1,20 @@
+INSO - 1 PROYECTO FINAL 
+Entrega 0 
+
+● Datos personales (NIF, Nombre y apellidos) de los componentes del grupo 
+Javier Fernández Zamora - 71451852Y
+Pablo García Celadilla - 71456936X
+Álvaro Casado García - 71459220Z
+Sergio Martínez Nieto - 71563362N 
+
+● Breve resumen del tema escogido para la práctica, incluyendo una descripción general de la funcionalidad a implementar. (se extenderá en el documento ERS : Especificación de Requisitos del Sistema en la siguiente entrega) 
+Finalidad Gestionar los datos que comprenden la instalación de telecomunicaciones y los de final de obra de la misma 
+
+Objetivos - Gestión de datos de una instalación de telecomunicaciones. 
+- Gestión de datos de final de una instalación de telecomunicaciones. 
+
+● Entornos y tecnología: 
+Java y MySQL Eclipse 
+
+● Control de versiones 
+Github 
